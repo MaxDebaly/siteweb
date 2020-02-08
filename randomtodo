@@ -1,0 +1,16 @@
+- git add .         'ajouter  tous les nouveaux fichiers et fichiers modifés dans le dossier git'
+- git commit -m "message"   "faire un commit"
+- git push  "Envoyer vers github"
+
+--------------------------------
+A la première ouverture du dossier, il faut faire un deployement local
+avec blogdown::serve_site()
+
+--------------------------------------
+Tu ne fais rien, les modifications sont immédiatements mises en update dans
+le dossier public
+
+--------------------------------
+Quand tu finis de modifier tu fais les commandes avec le git là.
+
+Happy webbing!
